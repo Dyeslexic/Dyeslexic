@@ -1,9 +1,9 @@
 # Hi, I'm Conrad
 
 🎓📚 Software engineering student at Jain university<br>
-⛓️📈 I'm obsessed with Blockchain and cyrptography<br>
-⚡⚡ Currently learning solana developement and it's environment<br>
-  📡 I post tech related topics on [twitter](https://x.com/Dyeslexic)
+⛓️📈 I'm obsessed with Blockchain and Cyrptography<br>
+⚡⚡ Currently learning Solana developement and it's environment<br>
+  📡 I post tech related topics on [Twitter](https://x.com/Dyeslexic)
 
   
 # 💻 Tech Stack:
